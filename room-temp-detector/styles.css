@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    text-align: center;
+    padding-top: 100px;
+    color: #333;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+#temperature-display {
+    margin-top: 50px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#temperature-unit {
+    font-size: 30px;
+    color: #666;
+}
